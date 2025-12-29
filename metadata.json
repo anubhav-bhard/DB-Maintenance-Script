@@ -1,0 +1,5 @@
+{
+  "name": "DB Maintenance Script Pro",
+  "description": "A professional tool for database administrators to generate VACUUM FULL and REINDEX scripts for specific tables, featuring an AI-powered DBA assistant for performance insights.",
+  "requestFramePermissions": []
+}
